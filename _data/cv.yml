@@ -25,7 +25,7 @@
       institution: Xi'an Jiaotong-Liverpool University
       year: 2020-2023
       description:
-#        - CPT206&#58; Computer Programming for Financial Mathematics
+        - CPT206&#58; Computer Programming for Financial Mathematics
         - CPT403&#58; Object Oriented Programming
         - INT202&#58; Complexity of Algorithms Introduction
         - CPT105&#58; Introduction to Programming in Java
@@ -61,15 +61,6 @@
 #        - Graph Anomaly Detection
 
 
-- title: Academic Services
-  type: nested_list
-  contents:
-    - title: Journal Reviewer
-      items:
-        - Transactions on Neural Networks and Learning Systems (TNNLS)
-        - Neural Networks
-        - Neurocomputing
-        - Cognitive Computation
 
 #- title: Technical Skills
 #  type: list

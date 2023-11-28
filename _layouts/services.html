@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<!-- _layouts/cv.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
+          <article>
+            <div class="services">
+              {% for entry in site.data.services %}
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                  <div>
+                  {% if entry.type == "services_list" %}
+                    {% include services/services_list.html %}
+                  {% elsif entry.type == "list" %}
+                    {% include services/list.html %}
+                  {% elsif entry.type == "map" %}
+                    {% include services/map.html %}
+                  {% elsif entry.type == "nested_list" %}
+                    {% include services/nested_list.html %}
+                  {% elsif entry.type == "time_table" %}
+                   {% include services/time_table.html %}
+                  {% else %}
+                    {{ entry.contents }}
+                  {% endif %}
+                  </div>
+                </div>
+              {% endfor %}
+              </div>
+          </article>
+
+        </div>
