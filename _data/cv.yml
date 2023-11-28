@@ -51,14 +51,25 @@
 #        - Medical Image Analysis&#58; Tongue Segmentation
         - Medical Tongue Segmentation
 
-- title: Academic Interests
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Graph Neural Networks
+#      items:
+#        - Long-range Dependencies
+#        - Graph Heterophily
+#        - Graph Anomaly Detection
+
+
+- title: Academic Services
   type: nested_list
   contents:
-    - title: Graph Neural Networks
+    - title: Journal Reviewer
       items:
-        - Long-range Dependencies
-        - Graph Heterophily
-        - Graph Anomaly Detection
+        - Transactions on Neural Networks and Learning Systems (TNNLS)
+        - Neural Networks
+        - Neurocomputing
+        - Cognitive Computation
 
 #- title: Technical Skills
 #  type: list
