@@ -6,7 +6,7 @@ description: An up-to-date list is available on <a href='https://scholar.google.
 preprint_years: [2024, 2022]
 paper_years: [2023, 2022, 2021, 2016]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 
