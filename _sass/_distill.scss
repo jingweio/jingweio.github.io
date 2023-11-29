@@ -124,3 +124,36 @@ d-appendix {
     }
   }
 }
+
+@media (max-width: 600px) {
+  .publications {
+    ol.bibliography {
+      li {
+        .title {
+        font-size: 24px;
+        font-weight: bolder;
+        line-height: 1.2;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 9px
+      }
+      .periodical{
+        font-size: 20px;
+        line-height: 1.5;
+        width: 100%;
+        margin-left: 0;
+      }
+      .links {
+        margin-left: -8px;
+      }
+      .author {
+        font-size: 20px;
+        margin-top: 5px;
+        line-height: 1.5;
+        width: 100%;
+        margin-left: 0;
+      }
+      }
+    }
+  }
+}
