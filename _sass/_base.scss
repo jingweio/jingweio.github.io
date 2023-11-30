@@ -310,7 +310,7 @@ footer.sticky-bottom {
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    
+
     .list-group-item {
       font-size: 23px;
       background-color: inherit;
@@ -319,6 +319,7 @@ footer.sticky-bottom {
       .badge {
         color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
+        //margin-left: 0;
       }
     }
   }

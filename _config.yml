@@ -267,7 +267,8 @@ scholar:
     AAAI:
       color: "#81D0BB"
     CISP-BMEI:
-      color: "#A95465"
+      color: "#B5C583"
+#       color: "#369F2D"
 
   style: apa
   locale: en

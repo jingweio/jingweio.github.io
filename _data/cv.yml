@@ -21,15 +21,15 @@
   type: time_table
   contents:
 
-    - title: Teaching Assistant
-      institution: Xi'an Jiaotong-Liverpool University
-      year: 2020-2023
-      description:
-        - CPT206&#58; Computer Programming for Financial Mathematics
-        - CPT403&#58; Object Oriented Programming
-        - INT202&#58; Complexity of Algorithms Introduction
-        - CPT105&#58; Introduction to Programming in Java
-        - INT104&#58; Artificial Intelligence
+#    - title: Teaching Assistant
+#      institution: Xi'an Jiaotong-Liverpool University
+#      year: 2020-2023
+#      description:
+#        - CPT206&#58; Computer Programming for Financial Mathematics
+#        - CPT403&#58; Object Oriented Programming
+#        - INT202&#58; Complexity of Algorithms Introduction
+#        - CPT105&#58; Introduction to Programming in Java
+#        - INT104&#58; Artificial Intelligence
 
     - title: Research Assistant
       institution: Sano Medical Laboratories, Inc.

@@ -10,13 +10,13 @@ layout: default
           </header>
 
           <article>
-            <div class="services">
-              {% for entry in site.data.services %}
+            <div class="teaching">
+              {% for entry in site.data.teaching %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                   <div>
-                  {% if entry.type == "services_list" %}
-                    {% include services/services_list.html %}
+                  {% if entry.type == "teaching_list" %}
+                    {% include teaching/teaching_list.html %}
                   {% else %}
                     {{ entry.contents }}
                   {% endif %}

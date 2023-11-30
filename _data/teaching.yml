@@ -1,0 +1,17 @@
+#- title: Teaching Assistant @ DKU
+#  type: teaching_list
+#  contents:
+#    - title:
+#      items:
+#        -
+
+- title: Teaching Assistant @ XJTLU
+  type: teaching_list
+  contents:
+    - title:
+      items:
+        - CPT206&#58; Computer Programming for Financial Mathematics
+        - CPT403&#58; Object Oriented Programming
+        - INT202&#58; Complexity of Algorithms Introduction
+        - CPT105&#58; Introduction to Programming in Java
+        - INT104&#58; Artificial Intelligence

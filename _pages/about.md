@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate @ Department of Electrical Engineering and Electronics,  University of Liverpool
 
