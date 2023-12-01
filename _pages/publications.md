@@ -3,7 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: An up-to-date list is available on <a href='https://scholar.google.com/citations?hl=en&user=5qlAKK0AAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>.
-preprint_years: [2024, 2022]
+# preprint_years: [2024, 2022]
+preprint_years: [2022]
 paper_years: [2023, 2022, 2021, 2016]
 nav: true
 nav_order: 2
