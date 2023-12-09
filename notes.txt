@@ -1,0 +1,7 @@
+# test
+bundle exec jekyll serve
+
+# deploy
+git add .
+git commit -m "initial commit"
+bin/deploy --user
