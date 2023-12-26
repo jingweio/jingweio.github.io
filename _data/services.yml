@@ -1,9 +1,0 @@
-- title: Journal Reviewer
-  type: services_list
-  contents:
-    - title:
-      items:
-        - Transactions on Neural Networks and Learning Systems (TNNLS)
-        - Neural Networks
-        - Neurocomputing
-        - Cognitive Computation
