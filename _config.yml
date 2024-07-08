@@ -6,8 +6,8 @@ subaffiliation: Department of Computer Science
 affiliation_link: https://www.liverpool.ac.uk
 subaffiliation_link: https://www.liverpool.ac.uk/computer-science/
 affiliation_logo: ./assets/img/spinion.svg
-email: zixian12138 (at) 163.com
-email2: zixian.su (at) liverpool.ac.uk
+email: zixian.su (at) liverpool.ac.uk
+email2: zixian12138 (at) 163.com
 address: L69 3BX, Liverpool
 address_link: https://www.google.fr/maps/place/Ashton+Building/@53.4066014,-2.9670969,18z/data=!3m2!4b1!5s0x487b2119c9deba7f:0xadcdf4d28530e851!4m6!3m5!1s0x487b2119c05c9251:0x302f24cc446e3be0!8m2!3d53.4066014!4d-2.9663743!16s%2Fg%2F11c0rnbr1t?entry=ttu
 
@@ -31,8 +31,8 @@ researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
 avatar: ./assets/img/AI_generated.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/image_crop.jpg
+favicon_dark: ./assets/img/image_crop.jpg
 
 # Footnotes
 # Footnote
