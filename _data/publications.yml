@@ -1,7 +1,7 @@
 main:
 
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
-    authors: <strong>Zixian Su<strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
+    authors: <strong>Zixian Su</strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
     conference_short: AAAI2024
     conference: Proceedings of the AAAI Conference on Artificial Intelligence
     pdf: ./assets/files/TTA.pdf
@@ -11,24 +11,25 @@ main:
     notes: Published
 
   - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
-    authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su<strong>, Xi Yang, Jie Sun, Kaizhu Huang
+    authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
     pdf: https://arxiv.org/pdf/2405.14278
+    conference_short: Arxiv
     bibtex: ./assets/files/SCMIX.txt
     image: ./assets/files/OCDA_banner.png
     notes: Under Review
 
   - title: Rethinking data augmentation for single-source domain generalization in medical image segmentation
-    authors: <strong>Zixian Su*<strong>, Kai Yao*, Xi Yang, Kaizhu Huang, Qiufeng Wang, Jie Sun
+    authors: <strong>Zixian Su*</strong>, Kai Yao*, Xi Yang, Kaizhu Huang, Qiufeng Wang, Jie Sun
     conference_short: AAAI2023
     conference: Proceedings of the AAAI Conference on Artificial Intelligence
     pdf: ./assets/files/SDG.pdf
     code: https://github.com/kiwi12138/SLAug
     bibtex: ./assets/files/SDG.txt
-    image: ./assets/files/SDG_banner.png
+    image: ./assets/files/SDG.png
     notes: Published
 
   - title: Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation
-    authors: Kai Yao, <strong>Zixian Su<strong>, Xi Yang, Jie Sun, Kaizhu Huang
+    authors: Kai Yao, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
     conference_short: CIKM2023
     conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
     pdf: ./assets/files/CIKM.pdf
@@ -38,7 +39,7 @@ main:
 
 
   - title: Mind the gap:Alleviating local imbalance for unsupervised cross-modality medical image segmentation
-    authors: <strong>Zixian Su<strong>, Kai Yao, Xi Yang, Qiufeng Wang, Yuyao Yan, Jie Sun, Kaizhu Huang
+    authors: <strong>Zixian Su</strong>, Kai Yao, Xi Yang, Qiufeng Wang, Yuyao Yan, Jie Sun, Kaizhu Huang
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics
     pdf: ./assets/files/UDA2D.pdf
@@ -47,7 +48,7 @@ main:
     notes: Published
 
   - title: A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation
-    authors: Kai Yao, Zixian Su, Kaizhu Huang, Xi Yang, Jie Sun, Amir Hussain, Frans Coenen
+    authors: Kai Yao*, <strong>Zixian Su*</strong>, Kaizhu Huang, Xi Yang, Jie Sun, Amir Hussain, Frans Coenen
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics
     pdf: ./assets/files/UDA3D.pdf
@@ -65,7 +66,7 @@ main:
     notes: Published
 
   - title: Topological Anderson insulator in two-dimensional non-Hermitian systems
-    authors: Hongfang Liu, <strong>Zixian Su<strong>, Zhi-Qiang Zhang, Hua Jiang
+    authors: Hongfang Liu, <strong>Zixian Su</strong>, Zhi-Qiang Zhang, Hua Jiang
     conference_short: Chin. Phys. B
     conference: Chinese Physics B
     pdf: https://cpb.iphy.ac.cn/article/2020/2030/cpb_29_5_050502.html
@@ -74,7 +75,7 @@ main:
     notes: Published
 
   - title: Disorder induced phase transition in magnetic higher-order topological insulator:A machine learning study
-    authors: Zixian Su, Yanzhuo Kang, Bofeng Zhang, Zhiqiang Zhang, Hua Jiang
+    authors: <strong>Zixian Su</strong>, Yanzhuo Kang, Bofeng Zhang, Zhiqiang Zhang, Hua Jiang
     conference_short: Chin. Phys. B
     conference: Chinese Physics B
     pdf: https://iopscience.iop.org/article/10.1088/1674-1056/ab4582/meta
