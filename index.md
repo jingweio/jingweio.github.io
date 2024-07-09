@@ -29,12 +29,10 @@ My research focuses on creating adaptable AI solutions that address real-world c
 
 
 ## Professional Experience
-
 - [Bosch Automotive Products (Suzhou) Co.Ltd.](https://www.bosch.com.cn/), **Internship**, 2020.1-2020.11
 - [Shejero Visiontech Pte. Ltd.](http://www.shejero.com), **Internship**, 2019.3-2019.12
 
 ## Honors and Awards
-
 - Graduate Student Scholarship, [AAAI2024](https://aaai.org/aaai-conference/).
 - The Most Influential Paper of [Chinese Physics B](https://aaai.org/aaai-conference/), 2023.
 - Best Presenter, [CMVIT2022](https://cmvit.org/).
