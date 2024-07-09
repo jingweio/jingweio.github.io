@@ -31,11 +31,11 @@ My research focuses on creating adaptable AI solutions that address real-world c
 [//]: # (- **Marie Skłodowska-Curie Actions &#40;MSCA&#41; Individual Fellowship**, 2020-2024, Early Stage Researcher &#40;ESR&#41;, Grant Number: 864415)
 
 [//]: # ()
-[//]: # (## Professional Affiliations)
+## Professional Experience
 
-[//]: # (- **Marie Curie Alumni Association Member**, 2021 - Present)
+- [Bosch Automotive Products (Suzhou) Co.Ltd.](https://www.bosch.com.cn/), **Internship**, 2020.1-2020.11
 
-[//]: # (- **The European Magnetism Association &#40;EMA&#41; Member**, 2021 - Present)
+- [Shejero Visiontech Pte. Ltd.](http://www.shejero.com), **Internship**, 2019.3-2019.12
 
 [//]: # (## Certificates)
 
@@ -44,10 +44,7 @@ My research focuses on creating adaptable AI solutions that address real-world c
 
 {% include_relative _includes/news.md %}
 
-[//]: # ({% include_relative _includes/projects.md %})
 
 {% include_relative _includes/publications.md %}
 
-[//]: # ({% include_relative _includes/conference.md %})
 
-[//]: # ({% include_relative _includes/contact.md %})
