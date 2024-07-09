@@ -25,8 +25,6 @@ My research focuses on creating adaptable AI solutions that address real-world c
 - **Exchange Student**, 2019.7 - 2019.12, [National University of Singapore](https://nus.edu.sg/)
 - **B.Sc. in Physics**, 2016.9 - 2020.6, [Soochow Univeristy](https://www.suda.edu.cn/)
 
-{% include_relative _includes/news.md %}
-
 
 ## Professional Experience
 - [Bosch Automotive Products (Suzhou) Co.Ltd.](https://www.bosch.com.cn/), **Internship**, 2020.1-2020.11
@@ -40,7 +38,8 @@ My research focuses on creating adaptable AI solutions that address real-world c
 - Full Doctoral Scholarship, University of Liverpool, 2020.
 - Outstanding Graduate Award, Soochow University, 2020.
 - Soochow University Scholarships, 2016-2020.
-
+- 
+{% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 
 
