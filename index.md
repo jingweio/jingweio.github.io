@@ -26,21 +26,28 @@ My research focuses on creating adaptable AI solutions that address real-world c
 - **B.Sc. in Physics**, 2016.9 - 2020.6, [Soochow Univeristy](https://www.suda.edu.cn/)
 
 
-[//]: # (## Grants and Fellowships)
 
-[//]: # (- **Marie Skłodowska-Curie Actions &#40;MSCA&#41; Individual Fellowship**, 2020-2024, Early Stage Researcher &#40;ESR&#41;, Grant Number: 864415)
-
-[//]: # ()
 ## Professional Experience
 
 - [Bosch Automotive Products (Suzhou) Co.Ltd.](https://www.bosch.com.cn/), **Internship**, 2020.1-2020.11
 
 - [Shejero Visiontech Pte. Ltd.](http://www.shejero.com), **Internship**, 2019.3-2019.12
 
-[//]: # (## Certificates)
+## Honors and Awards
 
-[//]: # ()
-[//]: # (<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+- Graduate Student Scholarship, [AAAI2024](https://aaai.org/aaai-conference/).
+
+- The Most Influential Paper of [Chinese Physics B](https://aaai.org/aaai-conference/), 2023.
+
+- Best Presenter, [CMVIT2022](https://cmvit.org/).
+
+- Top 5 in [CrossMoDa Challenge 2021](https://crossmoda-challenge.ml/).
+
+- Full Doctoral Scholarship, University of Liverpool, 2020.
+
+- Outstanding Graduate Award, Soochow University, 2020.
+
+- Soochow University Scholarships, 2016-2020.
 
 {% include_relative _includes/news.md %}
 
