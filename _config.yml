@@ -5,7 +5,7 @@ affiliation: University of Liverpool
 subaffiliation: Department of Computer Science
 affiliation_link: https://www.liverpool.ac.uk
 subaffiliation_link: https://www.liverpool.ac.uk/computer-science/
-affiliation_logo: ./assets/img/university-of-liverpool-logo-vector.png
+#affiliation_logo: ./assets/img/university-of-liverpool-logo-vector.png
 email: zixian.su (at) liverpool.ac.uk
 email2: zixian12138 (at) 163.com
 address: L69 3BX, Liverpool
