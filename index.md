@@ -38,8 +38,9 @@ My research focuses on creating adaptable AI solutions that address real-world c
 - Full Doctoral Scholarship, University of Liverpool, 2020.
 - Outstanding Graduate Award, Soochow University, 2020.
 - Soochow University Scholarships, 2016-2020.
-- 
+
 {% include_relative _includes/news.md %}
+
 {% include_relative _includes/publications.md %}
 
 
