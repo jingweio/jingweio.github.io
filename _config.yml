@@ -5,7 +5,7 @@ affiliation: University of Liverpool
 subaffiliation: Department of Computer Science
 affiliation_link: https://www.liverpool.ac.uk
 subaffiliation_link: https://www.liverpool.ac.uk/computer-science/
-affiliation_logo: ./assets/img/spinion.svg
+affiliation_logo: ./assets/img/university-of-liverpool-logo-vector.png
 email: zixian.su (at) liverpool.ac.uk
 email2: zixian12138 (at) 163.com
 address: L69 3BX, Liverpool
@@ -14,7 +14,7 @@ address_link: https://www.google.fr/maps/place/Ashton+Building/@53.4066014,-2.96
 # Search Engine Optimization (SEO)
 keywords: zixian su, su zixian, suzixian, zixiansu
 canonical: https://minimal-light-theme.yliu.me/
-description: Zixian Su is a Ph.D. canditate at University of Liverpool. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
+description: Zixian Su is a Ph.D. canditate at University of Liverpool.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -27,7 +27,7 @@ cv_link: https://kiwi12138.github.io/assets/files/CV_zixian.pdf
 google_scholar: https://scholar.google.com/citations?user=E-Mcb5AAAAAJ&hl=en&oi=ao
 github_link: https://github.com/kiwi12138/
 linkedin: https://www.linkedin.com/in/zixian-su-184965198/
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+researchgate: https://www.researchgate.net/profile/Zixian-Su-2
 
 # Images 
 avatar: ./assets/img/AI_generated.jpg
@@ -44,7 +44,7 @@ enable_footnote: false
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+#clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
