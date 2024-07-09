@@ -1,0 +1,9 @@
+@inproceedings{su2024unraveling,
+  title={Unraveling Batch Normalization for Realistic Test-Time Adaptation},
+  author={Su, Zixian and Guo, Jingwei and Yao, Kai and Yang, Xi and Wang, Qiufeng and Huang, Kaizhu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={15136--15144},
+  year={2024}
+}

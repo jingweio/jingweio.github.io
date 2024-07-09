@@ -1,0 +1,9 @@
+@inproceedings{su2023rethinking,
+  title={Rethinking data augmentation for single-source domain generalization in medical image segmentation},
+  author={Su, Zixian and Yao, Kai and Yang, Xi and Huang, Kaizhu and Wang, Qiufeng and Sun, Jie},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={2},
+  pages={2366--2374},
+  year={2023}
+}

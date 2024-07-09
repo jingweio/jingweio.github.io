@@ -1,0 +1,10 @@
+@article{liu2020topological,
+  title={Topological Anderson insulator in two-dimensional non-Hermitian systems},
+  author={Liu, Hongfang and Su, Zixian and Zhang, Zhi-Qiang and Jiang, Hua},
+  journal={Chinese Physics B},
+  volume={29},
+  number={5},
+  pages={050502},
+  year={2020},
+  publisher={IOP Publishing}
+}

@@ -1,0 +1,10 @@
+@article{su2023mind,
+  title={Mind the gap: Alleviating local imbalance for unsupervised cross-modality medical image segmentation},
+  author={Su, Zixian and Yao, Kai and Yang, Xi and Wang, Qiufeng and Yan, Yuyao and Sun, Jie and Huang, Kaizhu},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={27},
+  number={7},
+  pages={3396--3407},
+  year={2023},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{su2019disorder,
+  title={Disorder induced phase transition in magnetic higher-order topological insulator: A machine learning study},
+  author={Su, Zixian and Kang, Yanzhuo and Zhang, Bofeng and Zhang, Zhiqiang and Jiang, Hua},
+  journal={Chinese Physics B},
+  volume={28},
+  number={11},
+  pages={117301},
+  year={2019},
+  publisher={IOP Publishing}
+}

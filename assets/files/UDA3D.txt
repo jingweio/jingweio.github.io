@@ -1,0 +1,7 @@
+@article{yao2022darunet,
+  title={A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation},
+  author={Yao, Kai and Su, Zixian and Huang, Kaizhu and Yang, Xi and Sun, Jie and Hussain, Amir and Coenen, Frans},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2022},
+  publisher={IEEE}
+}
