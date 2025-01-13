@@ -14,8 +14,8 @@ My research focuses on creating adaptable AI solutions that address real-world c
 ## Research Interest
 
 - **Transfer Learning**
-- **AI4Science** 
 - **Medical Image Analysis**
+- **AI4Science** 
 - **Autonomous Driving Systems**
 - **Trustworthy AI**
 
