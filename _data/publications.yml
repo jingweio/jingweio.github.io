@@ -1,5 +1,21 @@
 main:
 
+  - title: Decentralizing Test-time Adaptation under Heterogeneous Data Streams
+    authors: <strong>Zixian Su*</strong>, Jingwei Guo*, Xi Yang, Qiufeng Wang, Kaizhu Huang
+    conference_short: Arxiv
+    pdf: ./assets/files/TTA2.pdf
+    bibtex: ./assets/files/TTA2.txt
+    image: ./assets/files/TTA2_banner.png
+    notes: Under Review
+    
+  - title: Navigating Distribution Shifts in Medical Image Analysis: A Survey
+    authors: <strong>Zixian Su*</strong>, Jingwei Guo*, Xi Yang, Qiufeng Wang, Frans Coenen, Kaizhu Huang
+    conference_short: Arxiv
+    pdf: ./assets/files/Survey.pdf
+    bibtex: ./assets/files/Survey.txt
+    image: ./assets/files/Survey_banner.png
+    notes: Under Review
+    
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: <strong>Zixian Su</strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
     conference_short: AAAI2024
