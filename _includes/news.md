@@ -1,7 +1,6 @@
 <h1 id="news"></h1>
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
- 
 <ul>
 <li><strong>[NOV. 2024]</strong> Successfully accomplished my PhD thesis defense!
 <li><strong>[JUN. 2024]</strong> Happy to join <span style="color:#e74d3c"><a href="https://www.dukekunshan.edu.cn/">Duke Kunshan University </a></span> to start my research intern.
