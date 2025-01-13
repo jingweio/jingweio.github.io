@@ -1,0 +1,6 @@
+@article{su2024navigating,
+  title={Navigating Distribution Shifts in Medical Image Analysis: A Survey},
+  author={Su, Zixian and Guo, Jingwei and Yang, Xi and Wang, Qiufeng and Coenen, Frans and Huang, Kaizhu},
+  journal={arXiv preprint arXiv:2411.05824},
+  year={2024}
+}
