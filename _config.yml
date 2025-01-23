@@ -1,20 +1,20 @@
 # Basic Information 
 title: Zixian Su
-position: Ph.D. Candidate
-affiliation: University of Liverpool
-subaffiliation: Department of Computer Science
+position: Researcher
+affiliation: Beijing Academy of Artificial Intelligence (BAAI)
+subaffiliation: Life Simulation Research Center
 affiliation_link: https://www.liverpool.ac.uk
-subaffiliation_link: https://www.liverpool.ac.uk/computer-science/
+subaffiliation_link: https://www.baai.ac.cn/english.html
 #affiliation_logo: ./assets/img/university-of-liverpool-logo-vector.png
-email: zixian.su (at) liverpool.ac.uk
+email: zxsu (at) baai.ac.cn
 email2: zixian12138 (at) 163.com
-address: L69 3BX, Liverpool
-address_link: https://www.google.fr/maps/place/Ashton+Building/@53.4066014,-2.9670969,18z/data=!3m2!4b1!5s0x487b2119c9deba7f:0xadcdf4d28530e851!4m6!3m5!1s0x487b2119c05c9251:0x302f24cc446e3be0!8m2!3d53.4066014!4d-2.9663743!16s%2Fg%2F11c0rnbr1t?entry=ttu
+address: Chengfu Road No.150, Beijing
+address_link: https://www.google.fr/maps/place/中国北京市海淀区成府路150号+邮政编码:+100190/@39.99228,116.3274551,17z/data=!3m1!4b1!4m6!3m5!1s0x35f0540346b143f5:0x572fb1956cdfaae3!8m2!3d39.99228!4d116.33003!16s%2Fg%2F11dzpstk5f?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D
 
 # Search Engine Optimization (SEO)
 keywords: zixian su, su zixian, suzixian, zixiansu
 canonical: https://minimal-light-theme.yliu.me/
-description: Zixian Su is a Ph.D. canditate at University of Liverpool.
+description: Zixian Su is a researcher at Beijing Academy of Artificial Intelligence (BAAI).
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -23,10 +23,10 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-cv_link: https://kiwi12138.github.io/assets/files/CV_zixian.pdf
+# cv_link: https://kiwi12138.github.io/assets/files/CV_zixian.pdf
 google_scholar: https://scholar.google.com/citations?user=E-Mcb5AAAAAJ&hl=en&oi=ao
 github_link: https://github.com/kiwi12138/
-linkedin: https://www.linkedin.com/in/zixian-su-184965198/
+# linkedin: https://www.linkedin.com/in/zixian-su-184965198/
 researchgate: https://www.researchgate.net/profile/Zixian-Su-2
 
 # Images 
