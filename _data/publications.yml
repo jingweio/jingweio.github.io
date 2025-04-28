@@ -29,10 +29,10 @@ main:
   - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
     authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
     pdf: https://arxiv.org/pdf/2405.14278
-    conference_short: Arxiv
+    conference_short: TNNLS
     bibtex: ./assets/files/SCMIX.txt
     image: ./assets/files/OCDA_banner.png
-    notes: Under Review
+    notes: Published
 
   - title: Rethinking data augmentation for single-source domain generalization in medical image segmentation
     authors: <strong>Zixian Su*</strong>, Kai Yao*, Xi Yang, Kaizhu Huang, Qiufeng Wang, Jie Sun
