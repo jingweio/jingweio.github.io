@@ -30,6 +30,7 @@ main:
     authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
     pdf: https://arxiv.org/pdf/2405.14278
     conference_short: TNNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems
     bibtex: ./assets/files/SCMIX.txt
     image: ./assets/files/OCDA_banner.png
     notes: Published
