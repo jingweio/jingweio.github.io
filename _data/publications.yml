@@ -67,5 +67,5 @@ main:
     conference_short: CISP-BMEI2016
     conference: International Congress on Image and Signal Processing, BioMedical Engineering and Informatics
     bibtex: ./assets/files/cisp-bemi16.txt
-    image: ./assets/files/cisp-bemi16_banner.png
+    image: ./assets/files/cispbemi16_banner.png
     notes: Published
