@@ -24,7 +24,7 @@ main:
     image: ./assets/files/Survey_banner.png
     notes: Under Review
 
-  - title: ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting
+  - title: ES-GNN - Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting
     authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Rui Zhang, Xinping Yi
     pdf: ./assets/files/esgnn.pdf
     conference_short: TPAMI2024
