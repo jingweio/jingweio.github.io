@@ -1,0 +1,7 @@
+@inproceedings{guo2023graph,
+  title={Graph neural networks with diverse spectral filtering},
+  author={Guo, Jingwei and Huang, Kaizhu and Yi, Xinping and Zhang, Rui},
+  booktitle={Proceedings of the ACM web conference 2023},
+  pages={306--316},
+  year={2023}
+}

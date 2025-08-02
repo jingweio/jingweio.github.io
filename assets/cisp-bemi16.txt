@@ -1,0 +1,8 @@
+@inproceedings{guo2016adaptive,
+  title={Adaptive active contour model based automatic tongue image segmentation},
+  author={Guo, Jingwei and Yang, Yikang and Wu, Qingwei and Su, Jionglong and Ma, Fei},
+  booktitle={2016 9th International Congress on image and signal processing, BioMedical engineering and informatics (CISP-BMEI)},
+  pages={1386--1390},
+  year={2016},
+  organization={IEEE}
+}

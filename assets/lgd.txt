@@ -1,0 +1,10 @@
+@article{guo2022learning,
+  title={Learning disentangled graph convolutional networks locally and globally},
+  author={Guo, Jingwei and Huang, Kaizhu and Yi, Xinping and Zhang, Rui},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={35},
+  number={3},
+  pages={3640--3651},
+  year={2022},
+  publisher={IEEE}
+}

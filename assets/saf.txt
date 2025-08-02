@@ -1,0 +1,6 @@
+@article{guo2024rethinking,
+  title={Rethinking spectral graph neural networks with spatially adaptive filtering},
+  author={Guo, Jingwei and Huang, Kaizhu and Yi, Xinping and Su, Zixian and Zhang, Rui},
+  journal={arXiv preprint arXiv:2401.09071},
+  year={2024}
+}
