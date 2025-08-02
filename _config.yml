@@ -1,20 +1,20 @@
 # Basic Information 
-title: Zixian Su
-position: Researcher
-affiliation: Beijing Academy of Artificial Intelligence (BAAI)
-subaffiliation: Life Simulation Research Center
-affiliation_link: https://www.liverpool.ac.uk
-subaffiliation_link: https://www.baai.ac.cn/english.html
+title: Jingwei Guo
+position: Senior Algorithm Engineer
+affiliation: Alibaba Group
+# subaffiliation: Life Simulation Research Center
+# affiliation_link: https://www.liverpool.ac.uk
+# subaffiliation_link: https://www.baai.ac.cn/english.html
 #affiliation_logo: ./assets/img/university-of-liverpool-logo-vector.png
-email: zxsu (at) baai.ac.cn
-email2: zixian12138 (at) 163.com
-address: Chengfu Road No.150, Beijing
-address_link: https://www.google.fr/maps/place/中国北京市海淀区成府路150号+邮政编码:+100190/@39.99228,116.3274551,17z/data=!3m1!4b1!4m6!3m5!1s0x35f0540346b143f5:0x572fb1956cdfaae3!8m2!3d39.99228!4d116.33003!16s%2Fg%2F11dzpstk5f?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D
+email: jingweiguo19 (at) outlook.com
+email2: jingweiguo19 (at) gmail.com
+# address: Chengfu Road No.150, Beijing
+# address_link: https://www.google.fr/maps/place/中国北京市海淀区成府路150号+邮政编码:+100190/@39.99228,116.3274551,17z/data=!3m1!4b1!4m6!3m5!1s0x35f0540346b143f5:0x572fb1956cdfaae3!8m2!3d39.99228!4d116.33003!16s%2Fg%2F11dzpstk5f?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D
 
 # Search Engine Optimization (SEO)
-keywords: zixian su, su zixian, suzixian, zixiansu
+keywords: jingwei guo, guo jingwei, guojingwei, jingweiguo
 canonical: https://minimal-light-theme.yliu.me/
-description: Zixian Su is a researcher at Beijing Academy of Artificial Intelligence (BAAI).
+description: jingwei guo is a Senior Algorithm Engineer at Alibaba Group.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -23,16 +23,16 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-# cv_link: https://kiwi12138.github.io/assets/files/CV_zixian.pdf
-google_scholar: https://scholar.google.com/citations?user=E-Mcb5AAAAAJ&hl=en&oi=ao
-github_link: https://github.com/kiwi12138/
-# linkedin: https://www.linkedin.com/in/zixian-su-184965198/
-researchgate: https://www.researchgate.net/profile/Zixian-Su-2
+# cv_link: https://jingweio.github.io/assets/files/jingwei_cv.pdf
+google_scholar: https://scholar.google.com/citations?user=5qlAKK0AAAAJ&hl=zh-CN&oi=ao
+github_link: https://github.com/jingweio
+# linkedin: https://www.linkedin.com/in/jingwei-su-184965198/
+# researchgate: https://www.researchgate.net/profile/jingwei-Su-2
 
 # Images 
-avatar: ./assets/img/AI_generated.jpg
-favicon: ./assets/img/image_crop.jpg
-favicon_dark: ./assets/img/image_crop.jpg
+avatar: ./assets/img/jingwei_profile.jpg
+favicon: ./assets/img/image_crop_2.jpg
+favicon_dark: ./assets/img/image_crop_2.jpg
 
 # Footnotes
 # Footnote
