@@ -1,7 +1,15 @@
 main:
 
-  - title: Decentralizing Test-time Adaptation under Heterogeneous Data Streams
-    authors: <strong>Zixian Su*</strong>, Jingwei Guo*, Xi Yang, Qiufeng Wang, Kaizhu Huang
+  - title: Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering
+    authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Zixian Su, and Rui Zhang
+    pdf: ./assets/files/saf.pdf
+    conference_short: Arxiv
+    bibtex: ./assets/files/saf.txt
+    image: ./assets/files/saf_banner.png
+    notes: Under Review
+
+  - title: Un-mixing Test-time Adaptation under Heterogeneous Data Streams
+    authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
     conference_short: Arxiv
     pdf: ./assets/files/TTA2.pdf
     bibtex: ./assets/files/TTA2.txt
@@ -9,15 +17,24 @@ main:
     notes: Under Review
 
   - title: Navigating Distribution Shifts in Medical Image Analysis - A Survey
-    authors: <strong>Zixian Su*</strong>, Jingwei Guo*, Xi Yang, Qiufeng Wang, Frans Coenen, Kaizhu Huang
+    authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Frans Coenen, Kaizhu Huang
     conference_short: Arxiv
     pdf: ./assets/files/Survey.pdf
     bibtex: ./assets/files/Survey.txt
     image: ./assets/files/Survey_banner.png
     notes: Under Review
-    
+
+  - title: ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting
+    authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Rui Zhang, Xinping Yi
+    pdf: ./assets/files/esgnn.pdf
+    conference_short: TPAMI2024
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    bibtex: ./assets/files/esgnn.txt
+    image: ./assets/files/esgnn_banner.png
+    notes: Published
+
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
-    authors: <strong>Zixian Su</strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
+    authors: Zixian Su, <strong>Jingwei Guo</strong>, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
     conference_short: AAAI2024
     conference: Proceedings of the AAAI Conference on Artificial Intelligence
     pdf: ./assets/files/TTA.pdf
@@ -26,76 +43,29 @@ main:
     image: ./assets/files/TTA_banner.png
     notes: Published
 
-  - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
-    authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
-    pdf: https://arxiv.org/pdf/2405.14278
-    conference_short: TNNLS
+  - title: Graph Neural Networks with Diverse Spectral Filtering
+    authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Rui Zhang
+    pdf: ./assets/files/dsf.pdf
+    conference_short: WWW2023
+    conference: Proceedings of the ACM Web Conference
+    bibtex: ./assets/files/dsf.txt
+    image: ./assets/files/dsf_banner.png
+    notes: Published
+
+  - title: Learning Disentangled Graph Convolutional Networks Locally and Globally
+    authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Rui Zhang
+    pdf: ./assets/files/lgd.pdf
+    conference_short: TNNLS2022
     conference: IEEE Transactions on Neural Networks and Learning Systems
-    bibtex: ./assets/files/SCMIX.txt
-    image: ./assets/files/OCDA_banner.png
+    bibtex: ./assets/files/lgd.txt
+    image: ./assets/files/lgd_banner.png
     notes: Published
 
-  - title: Rethinking data augmentation for single-source domain generalization in medical image segmentation
-    authors: <strong>Zixian Su*</strong>, Kai Yao*, Xi Yang, Kaizhu Huang, Qiufeng Wang, Jie Sun
-    conference_short: AAAI2023
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence
-    pdf: ./assets/files/SDG.pdf
-    code: https://github.com/kiwi12138/SLAug
-    bibtex: ./assets/files/SDG.txt
-    image: ./assets/files/SDG.png
-    notes: Published
-
-  - title: Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation
-    authors: Kai Yao, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
-    conference_short: CIKM2023
-    conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
-    pdf: ./assets/files/CIKM.pdf
-    bibtex: ./assets/files/CIKM.txt
-    image: ./assets/files/CIKM.png
-    notes: Published
-
-
-  - title: Mind the gap:Alleviating local imbalance for unsupervised cross-modality medical image segmentation
-    authors: <strong>Zixian Su</strong>, Kai Yao, Xi Yang, Qiufeng Wang, Yuyao Yan, Jie Sun, Kaizhu Huang
-    conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics
-    pdf: ./assets/files/UDA2D.pdf
-    bibtex: ./assets/files/UDA2D.txt
-    image: ./assets/files/UDA2D.png
-    notes: Published
-
-  - title: A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation
-    authors: Kai Yao*, <strong>Zixian Su*</strong>, Kaizhu Huang, Xi Yang, Jie Sun, Amir Hussain, Frans Coenen
-    conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics
-    pdf: ./assets/files/UDA3D.pdf
-    code: https://github.com/Kaiseem/DAR-UNet
-    bibtex: ./assets/files/UDA3D.txt
-    image: ./assets/files/UDA3D.png
-    notes: Published
-
-  - title: CrossMoDA 2021 challenge:Benchmark of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation
-    conference_short: MIA
-    conference: Medical Image Analysis
-    pdf: https://www.sciencedirect.com/science/article/pii/S1361841522002560
-    bibtex: ./assets/files/MIA.txt
-    image: ./assets/files/MIA.png
-    notes: Published
-
-  - title: Topological Anderson insulator in two-dimensional non-Hermitian systems
-    authors: Hongfang Liu, <strong>Zixian Su</strong>, Zhi-Qiang Zhang, Hua Jiang
-    conference_short: Chin. Phys. B
-    conference: Chinese Physics B
-    pdf: https://cpb.iphy.ac.cn/article/2020/2030/cpb_29_5_050502.html
-    bibtex: ./assets/files/CPB2.txt
-    image: ./assets/files/CPB2.png
-    notes: Published
-
-  - title: Disorder induced phase transition in magnetic higher-order topological insulator:A machine learning study
-    authors: <strong>Zixian Su</strong>, Yanzhuo Kang, Bofeng Zhang, Zhiqiang Zhang, Hua Jiang
-    conference_short: Chin. Phys. B
-    conference: Chinese Physics B
-    pdf: https://iopscience.iop.org/article/10.1088/1674-1056/ab4582/meta
-    bibtex: ./assets/files/CPB1.txt
-    image: ./assets/files/CPB1.jpg
+  - title: Adaptive Active Contour Model based Automatic Tongue Image Segmentation
+    authors: <strong>Jingwei Guo</strong>, Yikang Yang, Qingwei Wu, Jionglong Su, Fei Ma
+    pdf: ./assets/files/cisp-bemi16.pdf
+    conference_short: CISP-BMEI2016
+    conference: International Congress on Image and Signal Processing, BioMedical Engineering and Informatics
+    bibtex: ./assets/files/cisp-bemi16.txt
+    image: ./assets/files/cisp-bemi16_banner.png
     notes: Published
