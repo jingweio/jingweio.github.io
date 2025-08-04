@@ -17,26 +17,3 @@ I am currently an Algorithm Engineer at Alibaba Group. I obtained PhD in Compute
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
-
-## Services
-
-- **Conference Reviewers**
-  - ICLR (2024~2025)
-  - ICML (2024~2025)
-  - NeurIPS (2024~2025)
-  - KDD (2024~2025)
-  - AAAI (2026)
-  - LoG (2024~2025)
-  - ECML-PKD (2024~2025)
-  - ICPR (2024~2025)
-  - ACML (2024~2025)
-- **Journal Reviewers**
-  - IEEE Transactions on Neural Networks and Learning Systems
-  - Neural Networks
-  - Pattern Recognition
-  - Neurocomputing
-  - Cognitive Computation
-- **Guest Lecturer**
-  - ECE590: Deep Learning
-  - INT104: Artificial Intelligence
-  - CPT111: Java Programming
