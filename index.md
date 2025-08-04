@@ -14,8 +14,6 @@ I am currently an Algorithm Engineer at Alibaba Group. I obtained PhD in Compute
 - **Transfer Learning**
 - **Medical Image Analysis**
 
-{% include_relative _includes/news.md %}
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
