@@ -29,6 +29,7 @@ main:
     pdf: ./assets/files/esgnn.pdf
     conference_short: TPAMI2024
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    code: https://github.com/jingweio/ES-GNN
     bibtex: ./assets/files/esgnn.txt
     image: ./assets/files/esgnn_banner.png
     notes: Published
@@ -48,6 +49,7 @@ main:
     pdf: ./assets/files/dsf.pdf
     conference_short: WWW2023
     conference: Proceedings of the ACM Web Conference
+    code: https://github.com/jingweio/DSF
     bibtex: ./assets/files/dsf.txt
     image: ./assets/files/dsf_banner.png
     notes: Published
@@ -57,6 +59,7 @@ main:
     pdf: ./assets/files/lgd.pdf
     conference_short: TNNLS2022
     conference: IEEE Transactions on Neural Networks and Learning Systems
+    code: https://github.com/jingweio/LGD-GCN
     bibtex: ./assets/files/lgd.txt
     image: ./assets/files/lgd_banner.png
     notes: Published
