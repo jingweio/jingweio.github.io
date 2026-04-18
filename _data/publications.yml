@@ -3,10 +3,10 @@ main:
   - title: Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering
     authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Zixian Su, and Rui Zhang
     pdf: ./assets/files/saf.pdf
-    conference_short: Arxiv
+    conference: IEEE Transactions on Neural Networks and Learning Systems
     bibtex: ./assets/files/saf.txt
     image: ./assets/files/saf_banner.png
-    notes: Under Review
+    notes: Published
 
   - title: Un-mixing Test-time Adaptation under Heterogeneous Data Streams
     authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
