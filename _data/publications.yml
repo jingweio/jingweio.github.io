@@ -17,7 +17,7 @@ main:
     notes: Under Review
 
   - title: Navigating Distribution Shifts in Medical Image Analysis - A Survey
-    authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Frans Coenen, Kaizhu Huang
+    authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Frans Coenen, Amir Hussain, Kaizhu Huang
     conference_short: Arxiv
     pdf: ./assets/files/Survey.pdf
     bibtex: ./assets/files/Survey.txt
