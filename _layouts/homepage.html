@@ -119,6 +119,10 @@
         <a href="{{ site.address_link }}" rel="noopener"><autocolor>{{ site.address }}</autocolor></a>
         <br>
         {% endif %}
+        {% if site.country %}
+        <autocolor>{{ site.country }}</autocolor>
+        <br>
+        {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
@@ -126,7 +130,11 @@
         <br>
         <email>{{ site.email2 }}</email>
         {% endif %}
-        
+        {% if site.email3 %}
+        <br>
+        <email>{{ site.email3 }}</email>
+        {% endif %}
+
         <br>
         <br>
         <div class="social-icons">

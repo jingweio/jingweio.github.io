@@ -1,19 +1,10 @@
 main:
 
-  - title: Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering
-    authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Zixian Su, and Rui Zhang
-    pdf: ./assets/files/saf.pdf
-    conference: IEEE Transactions on Neural Networks and Learning Systems
-    bibtex: ./assets/files/saf.txt
-    image: ./assets/files/saf_banner.png
-    notes: Published
-
-  - title: Un-mixing Test-time Adaptation under Heterogeneous Data Streams
-    authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
+  - title: 'CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations'
+    authors: Zixian Su, Hongkai Zhang, Fan Gao, Encheng Su, Taiping Qu, <strong>Jingwei Guo</strong>, Nan Zhang, Hui Wang, Zhen Zhou, Kairui Bo, Yan Chen, Yue Ren, Shuai Li, Lei Xu, Henggui Zhang
     conference_short: Arxiv
-    pdf: ./assets/files/TTA2.pdf
-    bibtex: ./assets/files/TTA2.txt
-    image: ./assets/files/TTA2_banner.png
+    pdf: ./assets/files/cardiolens.pdf
+    image: ./assets/files/cardiolens_banner.png
     notes: Under Review
 
   - title: Navigating Distribution Shifts in Medical Image Analysis - A Survey
@@ -24,10 +15,26 @@ main:
     image: ./assets/files/Survey_banner.png
     notes: Under Review
 
+  - title: Un-mixing Test-time Adaptation under Heterogeneous Data Streams
+    authors: Zixian Su*, <strong>Jingwei Guo*</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
+    conference_short: Arxiv
+    pdf: ./assets/files/TTA2.pdf
+    bibtex: ./assets/files/TTA2.txt
+    image: ./assets/files/TTA2_banner.png
+    notes: Under Review
+
+  - title: Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering
+    authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Zixian Su, and Rui Zhang
+    pdf: ./assets/files/saf.pdf
+    conference_short: TNNLS 2026
+    conference: IEEE Transactions on Neural Networks and Learning Systems
+    image: ./assets/files/saf_banner.png
+    notes: Published
+
   - title: ES-GNN - Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting
     authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Rui Zhang, Xinping Yi
     pdf: ./assets/files/esgnn.pdf
-    conference_short: TPAMI2024
+    conference_short: TPAMI 2024
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
     code: https://github.com/jingweio/ES-GNN
     bibtex: ./assets/files/esgnn.txt
@@ -36,7 +43,7 @@ main:
 
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: Zixian Su, <strong>Jingwei Guo</strong>, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
-    conference_short: AAAI2024
+    conference_short: AAAI 2024
     conference: Proceedings of the AAAI Conference on Artificial Intelligence
     pdf: ./assets/files/TTA.pdf
     code: https://github.com/kiwi12138/RealisticTTA
@@ -47,7 +54,7 @@ main:
   - title: Graph Neural Networks with Diverse Spectral Filtering
     authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Rui Zhang
     pdf: ./assets/files/dsf.pdf
-    conference_short: WWW2023
+    conference_short: WWW 2023
     conference: Proceedings of the ACM Web Conference
     code: https://github.com/jingweio/DSF
     bibtex: ./assets/files/dsf.txt
@@ -57,7 +64,7 @@ main:
   - title: Learning Disentangled Graph Convolutional Networks Locally and Globally
     authors: <strong>Jingwei Guo</strong>, Kaizhu Huang, Xinping Yi, Rui Zhang
     pdf: ./assets/files/lgd.pdf
-    conference_short: TNNLS2022
+    conference_short: TNNLS 2022
     conference: IEEE Transactions on Neural Networks and Learning Systems
     code: https://github.com/jingweio/LGD-GCN
     bibtex: ./assets/files/lgd.txt
@@ -67,7 +74,7 @@ main:
   - title: Adaptive Active Contour Model based Automatic Tongue Image Segmentation
     authors: <strong>Jingwei Guo</strong>, Yikang Yang, Qingwei Wu, Jionglong Su, Fei Ma
     pdf: ./assets/files/cisp-bemi16.pdf
-    conference_short: CISP-BMEI2016
+    conference_short: CISP-BMEI 2016
     conference: International Congress on Image and Signal Processing, BioMedical Engineering and Informatics
     bibtex: ./assets/files/cisp-bemi16.txt
     image: ./assets/files/cispbemi16_banner.png
