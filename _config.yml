@@ -61,10 +61,17 @@ plugins:
 
 
 # The following files will be removed from the generated website.
+# NOTE: defining `exclude` overrides Jekyll's built-in defaults, so local
+# development paths (e.g. the locally-installed gems under vendor/) must be
+# listed explicitly or Jekyll will try to scan thousands of gem files.
 exclude:
   - build.sh
+  - serve-local.sh
   - Gemfile
   - Gemfile.lock
   - README.md
+  - DEV.md
   - LICENSE
   - CNAME
+  - vendor
+  - .bundle

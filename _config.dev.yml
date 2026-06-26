@@ -1,0 +1,20 @@
+# ---------------------------------------------------------------------------
+# Local development overrides
+# ---------------------------------------------------------------------------
+# Layered ON TOP of _config.yml when serving locally:
+#     bundle exec jekyll serve --config _config.yml,_config.dev.yml
+# (this is exactly what ./serve-local.sh does).
+#
+# Production (GitHub Pages) ignores this file entirely — it only ever reads
+# _config.yml. So you can change anything here for local testing without any
+# risk of it leaking to the live site at https://jingweio.github.io/.
+
+# Serve from the site root on localhost.
+url: "http://localhost:4000"
+baseurl: ""
+
+# Disable Google Analytics locally. The production _config.yml sets this to the
+# GitHub Actions secret placeholder "${{ secrets.GOOGLE_SCHOLAR_ID }}", which is
+# only substituted on GitHub. Locally that literal string would inject a broken
+# analytics tag and ping Google on every page load — so we blank it out here.
+google_analytics:
